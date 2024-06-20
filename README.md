@@ -1,6 +1,8 @@
 # A-Life-Capstone-Project
 An artificial life simulator by Maxwell Cole, Ethan Doll, Wyatt Holliday, Sasha Rosenthal, and Myles Scholz.
 
+*Note: This was only copied and pushed from the oringinal repository, this is frozen at the expo version. Original at https://github.com/MylesScholz/A-Life-Capstone-Project.*
+
 For user documentation, visit https://protobiota.github.io/.
 
 ## Repository Overview
